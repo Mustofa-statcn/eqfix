@@ -35,9 +35,7 @@ When you copy equations from AI responses, PDFs, or plain-text sources, the form
 
 ## 🚀 Live Demo
 
-👉 **[eqfix.your-username.github.io](https://your-username.github.io/eqfix)**
-
-*(Replace with your actual GitHub Pages URL after deployment)*
+👉 **[eqfix.Mustofa-statcn.github.io](https://Mustofa-statcn.github.io/eqfix)**
 
 ---
 
@@ -130,7 +128,7 @@ git push -u origin main
 5. Wait ~60 seconds, then visit:
 
 ```
-https://YOUR_USERNAME.github.io/eqfix/
+https://Mustofa-statcn.github.io/eqfix/
 ```
 
 GitHub will show the live URL at the top of the Pages settings once it's deployed.
